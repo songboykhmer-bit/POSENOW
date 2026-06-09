@@ -1,0 +1,8 @@
+{
+  "name": "Phe Samout Beach Resort IIII",
+  "description": "Bilingual resort management system with bookings, restaurant POS, inventory, and payroll.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
